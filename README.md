@@ -35,4 +35,5 @@
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/> </t>
 <img src="https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white"/> </t>
 </h4>
+
 ### ☎︎ Contact Me : k_subin@naver.com
