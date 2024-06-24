@@ -12,7 +12,7 @@
 
 
 ## ☭ Technology Skill
-
+<h4 align="center">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=KOTLIN&logoColor=white"/> </t>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SPRING&logoColor=white"/> </t>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TYPESCRIPT&logoColor=white"/> </t>
@@ -34,5 +34,5 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/> </t>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/> </t>
 <img src="https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white"/> </t>
-
+</h4>
 ### ☎︎ Contact Me : k_subin@naver.com
