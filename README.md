@@ -1,6 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&customColorList=1&height=300&text=%20SOOBIN_KIM%20&section=header&fontSize=80&reversal=false)
 
-### 🛠 Technology Skill
+## ☻ About Me
+* I am `Soobin Kim`.
+* Since 2022, I have been working as a `Backend developer`, primarily using Kotlin and Spring Boot.
+* I enjoy learning new technologies.
+* I am a developer who continuously learns and grows.
+
+</br>
+
+## ☭ Technology Skill
 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=KOTLIN&logoColor=white"/> </t>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SPRING&logoColor=white"/> </t>
@@ -23,3 +31,5 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/> </t>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/> </t>
 <img src="https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white"/> </t>
+
+## 
