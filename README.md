@@ -6,7 +6,10 @@
 * I enjoy learning new technologies.
 * I am a developer who continuously learns and grows.
 
-</br>
+
+<a href="https://skim-github.notion.site/Soobin-Kim-a50392828eb9425eb27457f325f6de9f?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=social&logo=Notion&logoColor=Black&label=About%20My%20Project%20List" alt="Notion Link"/></a>
+<a href="https://velog.io/@subin195/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=social&logo=velog&logoColor=20C997&label=About%20My%20Post%20List" alt="Velog Link"/></a>
+
 
 ## ☭ Technology Skill
 
@@ -32,4 +35,4 @@
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/> </t>
 <img src="https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white"/> </t>
 
-## 
+### ☎︎ Contact Me : k_subin@naver.com
